@@ -1,4 +1,4 @@
-# 
+# MEV-optimized Sniper for meme coin sniper bot | take-profit & pump-detection is the best meme coin sniper bot, featuring take-profit and pump-detection. Fast, smart, and optimized
 
 
 
